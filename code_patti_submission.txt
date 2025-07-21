@@ -1,0 +1,40 @@
+Enter your hand as space-separated cards:
+Enter the top card:
+Hand: ['R4', 'B5', 'G2', 'WC', 'PC', 'YS', 'BR']
+Top Card: R5
+Chosen card: B5
+
+Test 2: Playing to Match Value
+Enter your hand as space-separated cards:
+Enter the top card:
+Hand: ['Y3', 'Y2', 'Y5', 'WC', 'R5', 'G1', 'B2']
+Top Card: B8
+Chosen card: B2
+
+Test 3: Action Card Priority
+Enter your hand as space-separated cards:
+Enter the top card:
+Hand: ['RS', 'BP', 'WC', 'GP', 'PC', 'Y8']
+Top Card: GS
+Chosen card: RS
+
+Test 4: Endgame Strategy (2 cards left)
+Enter your hand as space-separated cards:
+Enter the top card:
+Hand: ['YP', 'Y2']
+Top Card: Y8
+Chosen card: YP
+
+Test 5: Number Card Strategy
+Enter your hand as space-separated cards:
+Enter the top card:
+Hand: ['R7', 'G9', 'PC', 'WC', 'Y2', 'B3']
+Top Card: B9
+Chosen card: G9
+
+Test 6: Wild Card Color Selection (Red dominant)
+Enter your hand as space-separated cards:
+Enter the top card:
+Hand: ['R7', 'R2', 'R5', 'WC', 'Y2', 'B3']
+Top Card: G9
+Chosen card: WR
